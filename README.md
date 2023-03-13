@@ -7,10 +7,11 @@
 3. *i love roller skating*
 
 <!--- this is my unordered list of bullets --->
-project one uses:
+my first ever stats project uses:
 * r code
 * markdown
 * HTML
+to create a meme and an animation!!
 
 ### here are my 3 faviourite emojis:
 ![](https://media.tenor.com/CcUtdYsxSnwAAAAj/ep00000-emoji.gif)
