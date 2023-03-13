@@ -12,7 +12,7 @@ project one uses:
 * markdown
 * HTML
 
-### here my 3 faviourite emojis:
+### here are my 3 faviourite emojis:
 ![](https://media.tenor.com/CcUtdYsxSnwAAAAj/ep00000-emoji.gif)
 ![](https://media.tenor.com/i72fmvaWsUAAAAAj/devilsworld.gif)
 ![](https://media.tenor.com/jvSAcEqYa7sAAAAj/boing-boing-tv.gif)
