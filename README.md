@@ -4,7 +4,7 @@
 *Here is 3 facts about me:*
 1. *my full name is rebecca but i perfer becca*
 2. *i am studying computer sicence at auckland university*
-3. *i do roller skating*
+3. *i love roller skating*
 
 <!--- this is my unordered list of bullets --->
 project one uses:
@@ -12,8 +12,14 @@ project one uses:
 * markdown
 * HTML
 
-### my completed stats 220 projects:
+### here my 3 faviourite emojis:
+![](https://media.tenor.com/62xd7aarUEIAAAAM/emoji-heart-eyes.gif)
+![](https://media.tenor.com/i72fmvaWsUAAAAAj/devilsworld.gif)
+![](https://media.tenor.com/jvSAcEqYa7sAAAAj/boing-boing-tv.gif)
 <!--- need to add website link (this link is the page of teh stage project)--->
+
+
+
 
 
 
