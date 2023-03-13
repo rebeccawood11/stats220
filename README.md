@@ -13,7 +13,7 @@ project one uses:
 * HTML
 
 ### here my 3 faviourite emojis:
-![](https://media.tenor.com/62xd7aarUEIAAAAM/emoji-heart-eyes.gif)
+![](https://media.tenor.com/CcUtdYsxSnwAAAAj/ep00000-emoji.gif)
 ![](https://media.tenor.com/i72fmvaWsUAAAAAj/devilsworld.gif)
 ![](https://media.tenor.com/jvSAcEqYa7sAAAAj/boing-boing-tv.gif)
 <!--- need to add website link (this link is the page of teh stage project)--->
